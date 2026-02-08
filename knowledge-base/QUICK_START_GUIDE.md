@@ -1,5 +1,10 @@
 # NOVAA MVP - DOCUMENTATION QUICK START GUIDE
 
+⚠️ **NOTICE**: This is a historical reference copy. For active development, use:
+**`/knowledge-base/active/README.md`**
+
+---
+
 ## 🎯 ONE-PAGE REFERENCE FOR TEAM LEADS
 
 ### Your Documentation Package (6 Files - 120+ Pages)
